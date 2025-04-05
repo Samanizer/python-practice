@@ -1,0 +1,12 @@
+john@example.com just pinged jane@example.com.
+jane@example.com replied to john@example.com again.
+admin@meta.com joined the channel.
+support@service.io is now active.
+john@example.com signed off.
+admin@meta.com sent a system broadcast.
+root@unix.org reported high load.
+jane@example.com forwarded the logs to devops@meta.com.
+john@example.com is back online.
+alerts@service.io notified root@unix.org and admin@meta.com.
+support@service.io logged an incident.
+support@service.io responded to jane@example.com and john@example.com.
